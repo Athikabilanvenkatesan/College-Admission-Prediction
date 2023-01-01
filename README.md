@@ -7,6 +7,7 @@ The college admission predictor uses historical colleges cut-off students admiss
 Requirements :
 pandas
 numpy
+matplotlib
 scikit-learn
 
 Model :
@@ -14,4 +15,4 @@ Model :
 -Logistic Regression.
 -SVR Regression.
 -Decision Tree Regression.
--Random Forest Regresion
+-Random Forest Regresion.
